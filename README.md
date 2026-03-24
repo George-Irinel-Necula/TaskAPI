@@ -16,7 +16,6 @@ A RESTful API built with Django and Django REST Framework for managing users and
 ## Features
 
 * Ordering,Filtering,Pagination,Throttling
-* Authentification is Required
 * Token Based Authentification
 
 
